@@ -1,4 +1,4 @@
-//Basic AI for Sonic(player) ai. A cpu for players to fight in challenge mode.
+##Basic AI for Sonic(player) ai. A cpu for players to fight in challenge mode.
 
 extends CharacterBody2D
 @onready var sprite_2d: AnimatedSprite2D = $AnimatedSprite2D
