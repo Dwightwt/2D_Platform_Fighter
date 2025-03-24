@@ -1,4 +1,4 @@
-//Code for the playscreen to choose versus mode or challenge mode
+##Code for the playscreen to choose versus mode or challenge mode
 
 extends Control
 
