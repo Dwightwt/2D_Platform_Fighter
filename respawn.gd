@@ -1,4 +1,4 @@
-##respawner for player character
+##Respawner for player character
 
 extends Area2D
 
