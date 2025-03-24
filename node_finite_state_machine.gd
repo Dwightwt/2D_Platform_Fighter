@@ -1,4 +1,4 @@
-//The Finite State Machine, declares an initial state and handles transitioning states
+##The Finite State Machine, declares an initial state and handles transitioning states
 
 class_name NodeFiniteStateMachine
 extends Node
