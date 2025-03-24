@@ -1,4 +1,4 @@
-//Global Function for Hitstun (Make available for all scripts to access)
+## Global Function for Hitstun (Make available for all scripts to access)
 
 extends Node
 
