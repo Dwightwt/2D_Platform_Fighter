@@ -1,4 +1,4 @@
-//Pause menu for stage 1
+##Pause menu for stage 1
 
 extends Control
 
