@@ -1,4 +1,4 @@
-//Initializes state
+##Initializes state
 
 class_name NodeState
 extends Node
