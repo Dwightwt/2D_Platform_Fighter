@@ -1,4 +1,4 @@
-//Camera for the versus mode
+##Camera for the versus mode
 
 extends Camera2D
 
