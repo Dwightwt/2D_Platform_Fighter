@@ -1,4 +1,4 @@
-//Code to create hitboxes for attacks and determine its properties such as width, length, knockback, start frame, end frame, and damage
+##Code to create hitboxes for attacks and determine its properties such as width, length, knockback, start frame, end frame, and damage
 
 extends Area2D
 
