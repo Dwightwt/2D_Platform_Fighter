@@ -1,4 +1,4 @@
-//Code for Sonic including all of his stats and physics attributes, attack data, hitboxes, sqllite data retrieval, and hitpause.
+##Code for Sonic including all of his stats and physics attributes, attack data, hitboxes, sqllite data retrieval, and hitpause.
 
 extends CharacterBody2D
 @onready var sprite_2d: AnimatedSprite2D = $AnimatedSprite2D
